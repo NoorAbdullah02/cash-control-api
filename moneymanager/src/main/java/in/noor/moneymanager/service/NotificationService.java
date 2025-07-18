@@ -63,7 +63,7 @@ public class NotificationService {
                             .append("<td style='border: 1px solid #ddd; padding: 8px;'>")
                             .append(expense.getCategoryId() != null ? expense.getCategoryName() : "N/A")
                             .append("</td>")
-                            .append("<td style='border: 1px solid #ddd; padding: 8px;'>").append(expense.getDate()).append("</td>")
+                            //.append("<td style='border: 1px solid #ddd; padding: 8px;'>").append(expense.getDate()).append("</td>")
                             .append("</tr>");
 
                 }
