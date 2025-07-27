@@ -2,7 +2,6 @@ package in.noor.moneymanager.controller;
 
 import in.noor.moneymanager.dto.AuthDTO;
 import in.noor.moneymanager.dto.ProfileDTO;
-import in.noor.moneymanager.entity.ProfileEntity;
 import in.noor.moneymanager.service.ProfileService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
@@ -48,5 +47,11 @@ public ResponseEntity<Map<String ,Object>> login(@RequestBody AuthDTO authDTO) {
                    "message",e.getMessage()
          ));
         }
+}
+
+@GetMapping("/profile")
+    public ResponseEntity<ProfileDTO> getPublicProfile() {
+      ProfileDTO profileDTO =  profileService.getPublicProfile(null);
+      return ResponseEntity.ok(profileDTO);
 }
 }

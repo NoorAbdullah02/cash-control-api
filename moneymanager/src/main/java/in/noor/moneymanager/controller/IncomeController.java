@@ -1,6 +1,5 @@
 package in.noor.moneymanager.controller;
 
-import in.noor.moneymanager.dto.ExpenseDTO;
 import in.noor.moneymanager.dto.IncomeDTO;
 import in.noor.moneymanager.service.IncomeService;
 import lombok.RequiredArgsConstructor;
@@ -34,4 +33,6 @@ public class IncomeController {
         incomeService.deleteIncome(id);
         return ResponseEntity.noContent().build();
     }
+
+
 }

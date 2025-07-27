@@ -1,0 +1,12 @@
+/*create database moneymanager;*/
+
+use moneymanager;
+
+select * from tbl_profiles;
+select * from tbl_categories;
+select * from tbl_expenses;
+select * from tbl_incomes;
+
+# UPDATE tbl_profiles SET is_active=1 WHEERE id = 1;
+
+
