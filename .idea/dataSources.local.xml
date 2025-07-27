@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-243.26574.91">
+    <data-source name="moneymanager@localhost" uuid="de9f7151-f0bd-4df2-b02a-137a641cd349">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="cashcontrol@dpg-d1sjmp24d50c739f3uvg-a.singapore-postgres.render.com" uuid="413c433e-777e-4f6c-b9da-5f79ee677f31">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" />
+      <user-name>cashcontrol_user</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

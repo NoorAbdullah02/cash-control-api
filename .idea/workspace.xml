@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c41438f6-5d8a-45d2-96f2-a9d2bec0e928" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2zu89WQTUfESgP9RjTWr6fk8n0T" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.moneymanager [clean].executor": "Run",
+    "Maven.moneymanager [package].executor": "Run",
+    "Maven.moneymanager [validate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.MoneymanagerApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Hp/Downloads/New folder (2)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MoneymanagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="BREVO_FROM_EMAIL" value="sheikhnoorabdullah02@gmail.com" />
+        <env name="BREVO_USER_NAME" value="922bac001@smtp-brevo.com" />
+        <env name="BREVO_USER_PASSWORD" value="n7yqwGpr9xHZYLcW" />
+        <env name="MONEY_MANAGER_BACKEND_URL" value="http://localhost:8080" />
+        <env name="MONEY_MANAGER_FRONTEND_URL" value="http://localhost:5173" />
+      </envs>
+      <module name="moneymanager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="in.noor.moneymanager.MoneymanagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26574.91" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26574.91" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c41438f6-5d8a-45d2-96f2-a9d2bec0e928" name="Changes" comment="" />
+      <created>1752569446323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752569446323</updated>
+      <workItem from="1752569447483" duration="2857000" />
+      <workItem from="1752572468944" duration="4275000" />
+      <workItem from="1752576768722" duration="110000" />
+      <workItem from="1752576944014" duration="1126000" />
+      <workItem from="1752582314785" duration="7704000" />
+      <workItem from="1752594291205" duration="3890000" />
+      <workItem from="1752648454552" duration="16296000" />
+      <workItem from="1752722517739" duration="38977000" />
+      <workItem from="1752781916824" duration="431000" />
+      <workItem from="1752809925940" duration="5787000" />
+      <workItem from="1752815949930" duration="220000" />
+      <workItem from="1752816182295" duration="12562000" />
+      <workItem from="1752847057827" duration="2458000" />
+      <workItem from="1752908157242" duration="321000" />
+      <workItem from="1752935525461" duration="4000" />
+      <workItem from="1752943599766" duration="5801000" />
+      <workItem from="1752984102663" duration="14532000" />
+      <workItem from="1753060464339" duration="9096000" />
+      <workItem from="1753333638994" duration="1308000" />
+      <workItem from="1753340300916" duration="1351000" />
+      <workItem from="1753424169993" duration="1044000" />
+      <workItem from="1753439165118" duration="7866000" />
+      <workItem from="1753547484210" duration="3821000" />
+      <workItem from="1753608033191" duration="11687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
